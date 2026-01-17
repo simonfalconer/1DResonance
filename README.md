@@ -1,1 +1,1 @@
-A package for running numerical quantum mechanical calculations in a 1-dimensional system. Includes presets for a simple system that supports a metastable state (resonance) and functions that enable dynamical or stationary, non-Hermitian (pCAP) methods for extracting resonance parameters.
+A package for running numerical quantum mechanical calculations in a 1-dimensional system. Includes presets for a simple system that supports a metastable state (resonance) and functions that enable dynamical or stationary, non-Hermitian (CAP) methods for extracting resonance parameters.
