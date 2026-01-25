@@ -4,4 +4,4 @@ A small collection of informative Jupyter notebook files that demonstrate how th
 
 1. 1DResonance_dynamics - A dynamical approach in which a wavepacket is prepared and then evolved using the TDSE.
 2. 1DResonance_pCAP - A simple, high-accuracy pCAP approach that is parameterized similarly to the dynamics calculation.
-3. 1DResonance_pCAP_Gaussian - A more traditional pCAP approach that utilizes a Guassian basis and an eta-trajectory analysis.
+3. 1DResonance_pCAP_Gaussian - A more traditional pCAP approach that utilizes a Gaussian basis and an eta-trajectory analysis.
