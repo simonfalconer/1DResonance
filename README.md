@@ -7,4 +7,5 @@ A small collection of informative Jupyter notebook files that demonstrate how th
 3. 1DResonance_pCAP_Gaussian - A more traditional pCAP approach that utilizes a Gaussian basis and an eta-trajectory analysis.
 
 These exercises were inspired by the work of Shachar Klaiman and Ido Gilary:
+
 Klaiman, S.; Gilary, I. On Resonance: A First Glance into the Behavior of Unstable States. Advances in Quantum Chemistry, 2012, 6, 1-31, DOI: 10.1016/B978-0-12-397009-1.00001-1.
