@@ -1,5 +1,5 @@
-A package for running numerical quantum mechanical calculations in a 1-dimensional system. Includes presets for a simple system that supports a metastable state (resonance) and functions that enable dynamical or stationary, non-Hermitian (CAP) methods for extracting resonance parameters.
+A small collection of informative Jupyter notebook files that demonstrate how the energy and width of a resonance can be extracted using the time-dependent schrodinger equation (TDSE) and the projected complex absorbing potential (pCAP) method in a model one-dimensional system. Each notebook file features a series of numerical quantum mechanical calculations with surface-level descriptions that walk through a specific approach:
 
-Includes an educational Jupyter notebook file that demonstrates how the energy and width of a resonance can be extracted using both the time-dependent schrodinger equation (TDSE) and the projected complex absorbing potential (pCAP) method.
-
-Also includes a python file containing tools that enable the flexible, black-box analysis of 1-dimensional quantum systems using different basis sets and methods (TISE, TDSE, pCAP).
+1. 1DResonance_dynamics - A dynamical approach in which a wavepacket is prepared and then evolved using the TDSE.
+2. 1DResonance_pCAP - A simple, high-accuracy pCAP approach that is parameterized similarly to the dynamics calculation.
+3. 1DResonance_pCAP_Gaussian - A pCAP approach that utilizes a Guassian basis and an eta-trajectory analysis.
