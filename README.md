@@ -5,8 +5,8 @@ A collection of Jupyter notebook files that demonstrate how the energy and width
 Each notebook file features a series of numerical quantum mechanical calculations with surface-level descriptions that walk through a specific approach:
 
 1.  1DResonance_dynamics - A dynamical approach in a discrete variable representation in which a wavepacket is prepared and then evolved using the TDSE.
-2.  1DResonance_pCAP - A simple, high-accuracy pCAP approach in a discrete variable representation that is parameterized similarly to the dynamics calculation.
-3.  1DResonance_pCAP_Gaussian - A more traditional pCAP approach that utilizes a Gaussian basis and an eta-trajectory analysis.
+2.  1DResonance_pCAP - A simple, high-accuracy projected complex absorbing potential (pCAP) approach in a discrete variable representation that is parameterized similarly to the dynamics calculation.
+3.  1DResonance_pCAP_Gaussian - A more traditional projected complex absorbing potential (pCAP) approach that utilizes a Gaussian basis and a resonance energy trajectory (eta-trajectory) analysis to determine an optimal CAP strength.
 
 These exercises were inspired by the work of Shachar Klaiman and Ido Gilary:
 
