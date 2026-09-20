@@ -1,18 +1,18 @@
 ![Alt text](readmeimage.png)
 
-#1DResonance
+# 1DResonance
 
 A collection of Jupyter notebook files that demonstrate how the energy and width of a resonance can be extracted using the time-dependent schrodinger equation (TDSE) or non-Hermitian quantum mechanical approaches in a model one-dimensional system. 
 
 Each notebook file features a series of numerical quantum mechanical calculations with surface-level descriptions that walk through a specific approach:
 
-##1DResonance_dynamics
+## 1DResonance_dynamics
 A dynamical approach in a discrete variable representation in which a wavepacket is prepared and then evolved using the TDSE.
 
-##1DResonance_pCAP
+## 1DResonance_pCAP
 A simple, high-accuracy projected complex absorbing potential (pCAP) approach in a discrete variable representation that is parameterized similarly to the dynamics calculation.
 
-##1DResonance_pCAP_Gaussian
+## 1DResonance_pCAP_Gaussian
 A more traditional projected complex absorbing potential (pCAP) approach that utilizes a Gaussian basis and a resonance energy trajectory (eta-trajectory) analysis to determine an optimal CAP strength.
 
 These exercises were inspired by the work of Shachar Klaiman and Ido Gilary:
