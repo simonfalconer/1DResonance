@@ -6,15 +6,16 @@ A collection of Jupyter notebook files that demonstrate how the energy and width
 
 Each notebook file features a series of numerical quantum mechanical calculations with surface-level descriptions that walk through a specific approach:
 
-## 1DResonance_dynamics
+## 1DResonance_dynamics.ipynb
 A dynamical approach in a discrete variable representation in which a wavepacket is prepared and then evolved using the TDSE.
 
-## 1DResonance_pCAP
+## 1DResonance_pCAP.ipynb
 A simple, high-accuracy projected complex absorbing potential (pCAP) approach in a discrete variable representation that is parameterized similarly to the dynamics calculation.
 
-## 1DResonance_pCAP_Gaussian
+## 1DResonance_pCAP_Gaussian.ipynb
 A more traditional projected complex absorbing potential (pCAP) approach that utilizes a Gaussian basis and a resonance energy trajectory (eta-trajectory) analysis to determine an optimal CAP strength.
 
+## Acknowledgments
 These exercises were inspired by the work of Shachar Klaiman and Ido Gilary:
 
 Klaiman, S.; Gilary, I. On Resonance: A First Glance into the Behavior of Unstable States. Advances in Quantum Chemistry, 2012, 6, 1-31, DOI: 10.1016/B978-0-12-397009-1.00001-1.
