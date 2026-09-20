@@ -6,19 +6,19 @@ A collection of Jupyter notebook files that demonstrate how the energy and width
 
 Each notebook file features a series of numerical quantum mechanical calculations with surface-level descriptions that walk through a specific approach:
 
-## Time-dependent Schrodinger equation in discrete variable representation (TDSE/DVR)
+## TDSE/DVR
 ```
 1DResonance_dynamics.ipynb
 ```
-A dynamical approach in a discrete variable representation in which a wavepacket is prepared and then evolved using the time-dependent Schrodinger equation (TDSE).
+A dynamical approach in a discrete variable representation (DVR) in which a wavepacket is prepared and then evolved using the time-dependent Schrodinger equation (TDSE).
 
-## Projected complex absorbing potential in discrete variable representation (pCAP/DVR)
+## pCAP/DVR
 ```
 1DResonance_pCAP.ipynb
 ```
-A simple, high-accuracy projected complex absorbing potential (pCAP) approach in a discrete variable representation that is parameterized similarly to the dynamics calculation.
+A simple, high-accuracy projected complex absorbing potential (pCAP) approach in a discrete variable representation (DVR) that is parameterized similarly to the dynamics calculation.
 
-## Projected complex absorbing potential in Gaussian basis (pCAP/Gaussian)
+## pCAP/Gaussian
 ```
 1DResonance_pCAP_Gaussian.ipynb
 ```
